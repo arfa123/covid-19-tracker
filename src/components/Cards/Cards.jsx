@@ -12,9 +12,9 @@ const Cards = ({ covidData }) => {
 		<div className={styles.container}>
 			<Grid container spacing={3} justify="center">
 				<StatsCard
-					heading="Infected"
+					heading="Cases"
 					value={covidData.confirmed}
-					details="Number of active cases of COVID-19"
+					details="Number of total cases of COVID-19"
 					classNames={cx(styles.card, styles.infected)}
 				/>
 				<StatsCard
