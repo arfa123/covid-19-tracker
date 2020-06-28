@@ -1,3 +1,5 @@
+# Covid-19 Tracker App using React.js, Material UI and Chart.js
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
